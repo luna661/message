@@ -1,2 +1,2 @@
-# message
-Delete discord messages
+# discordの個人dmのメッセージを削除するツールです！
+ぜひ使ってね
